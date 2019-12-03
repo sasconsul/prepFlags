@@ -1,0 +1,26 @@
+id;name;flag;continent_id
+0;Nigeria;🇳🇬;0
+1;Ethiopia;🇪🇹;0
+2;Egypt;🇪🇬;0
+3;DR Congo;🇨🇩;0
+4;South Africa;🇿🇦;0
+5;USA;🇺🇸;1
+6;Brazil;🇧🇷;1
+7;Mexico;🇲🇽;1
+8;Colombia;🇨🇴;1
+9;Argentina;🇦🇷;1
+10;China;🇨🇳;2
+11;India;🇮🇳;2
+12;Indonesia;🇮🇩;2
+13;Pakistan;🇵🇰;2
+14;Bangladesh;🇧🇩;2
+15;Russia;🇷🇺;3
+16;Germany;🇩🇪;3
+17;UK;🇬🇧;3
+18;France;🇫🇷;3
+19;Italy;🇮🇹;3
+20;Australia;🇦🇺;4
+21;Papua New Guinea;🇵🇬;4
+22;New Zealand;🇳🇿;4
+23;Fiji;🇫🇯;4
+24;Solomon Islands;🇸🇧;4
